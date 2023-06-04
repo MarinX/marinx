@@ -10,7 +10,6 @@ I work primarily in Go (since 2013), but also have experience in PHP, Flutter, V
 * 🖥️  See my portfolio at [my website](http://marin-basic.com)
 * ✉️  You can contact me at [marin@marin-basic.com](mailto:marin@marin-basic.com)
 * 🧠  I'm learning data structures & algorithms
-* 🤝  I'm open to collaborating on privacy focus/crypto projects
 * ⚡  One man’s crappy software is another man’s full time job.
 
 <a href="https://www.twitter.com/marin02basic" target="_blank" rel="noreferrer"><img
