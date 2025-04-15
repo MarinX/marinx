@@ -5,13 +5,21 @@ Software Developer
 ------------------
 
 🧠 Me write Golang, me use tmux, Neovim, and Arch(BTW, me use Arch). 
+
 🔨 Me smash keyboard until code fast. 
+
 🔥 Rolling updates good… until pacman -Syu break everything. 
+
 📟 Neovim best, tmux never die(except when me forget detach). 
+
 🖥 Mouse? No. hjkl good enough. 
+
 💀 Regex scary, but me try. 
+
 🚀 Deploy now, fix later. 
+
 🐧 Linux good. Systemd? Eh. 
+
 
 If code work, me happy. If not, me cry in logs.
 
